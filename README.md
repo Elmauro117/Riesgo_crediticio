@@ -56,6 +56,7 @@ Apply one hot encoding to categorical columns
 Normalize the data (not the categorical)
 Save the dataset
 
+
 Modeling steps:
 
 Do some cross features and train models with each one of the cross features to see which features have better performance
@@ -63,3 +64,7 @@ Cross Features with low predictive power are dumped.
 Add cross features to the dataset and train the dataset with different models and hyperparametres.
 The used models from scikit learn library are  Gradient Boost Classifier, LogReg, Random Forest Classifier y Hist Boost Classifier.
 
+
+
+
+### LINK TO THE DATSET: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
